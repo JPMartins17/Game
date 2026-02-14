@@ -3,8 +3,8 @@
 // ===================================
 
 // Login credentials (change these to your answers)
-const correctUsername = 'ladolcevita';
-const correctPassword = 'unicornteddybear';
+const correctUsername = 'la dolce vita';
+const correctPassword = 'unicorn and teddy bear';
 
 // Video configuration
 // Place your videos in the 'videos' folder and name them exactly as shown below
