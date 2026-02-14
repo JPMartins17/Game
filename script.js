@@ -3,26 +3,26 @@
 // ===================================
 
 // Login credentials (change these to your answers)
-const correctUsername = 'oursong';
-const correctPassword = 'oursymbol';
+const correctUsername = 'La Dolce Vita';
+const correctPassword = 'UnicornTeddyBear';
 
 // Video configuration
 // Place your videos in the 'videos' folder and name them exactly as shown below
 const videos = {
     video1: {
-        title: 'Our First Date 💕',
+        title: 'Date in Torino 💕',
         file: 'videos/video1.mp4'
     },
     video2: {
-        title: 'Special Moments ✨',
+        title: 'Special Moments in the Mountains ✨',
         file: 'videos/video2.mp4'
     },
     video3: {
-        title: 'Our Adventures 🌍',
+        title: 'Worlds Best Bowling Player 🌍',
         file: 'videos/video3.mp4'
     },
     video4: {
-        title: 'Love Notes 💌',
+        title: 'Love at the Spa 💌',
         file: 'videos/video4.mp4'
     }
 };
@@ -32,13 +32,13 @@ const videos = {
 // Use photos of yourself (correct) and other images (distractors)
 const captchaImages = [
     { src: 'images/captcha1.jpg', isCorrect: true },   // Your photo
-    { src: 'images/captcha2.jpg', isCorrect: false },  // Distractor (flower/scenery)
+    { src: 'images/captcha2.jpg', isCorrect: true },  // Distractor (flower/scenery)
     { src: 'images/captcha3.jpg', isCorrect: true },   // Your photo
-    { src: 'images/captcha4.jpg', isCorrect: false },  // Distractor
+    { src: 'images/captcha4.jpg', isCorrect: true },  // Distractor
     { src: 'images/captcha5.jpg', isCorrect: true },   // Your photo
-    { src: 'images/captcha6.jpg', isCorrect: false },  // Distractor
+    { src: 'images/captcha6.jpg', isCorrect: true },  // Distractor
     { src: 'images/captcha7.jpg', isCorrect: true },   // Your photo
-    { src: 'images/captcha8.jpg', isCorrect: false },  // Distractor
+    { src: 'images/captcha8.jpg', isCorrect: true },  // Distractor
     { src: 'images/captcha9.jpg', isCorrect: true }    // Your photo
 ];
 
