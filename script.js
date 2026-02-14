@@ -31,15 +31,15 @@ const videos = {
 // Place your images in the 'images' folder
 // Use photos of yourself (correct) and other images (distractors)
 const captchaImages = [
-    { src: 'images/captcha1.jpg', isCorrect: true },   // Your photo
-    { src: 'images/captcha2.jpg', isCorrect: true },  // Distractor (flower/scenery)
-    { src: 'images/captcha3.jpg', isCorrect: true },   // Your photo
-    { src: 'images/captcha4.jpg', isCorrect: true },  // Distractor
-    { src: 'images/captcha5.jpg', isCorrect: true },   // Your photo
-    { src: 'images/captcha6.jpg', isCorrect: true },  // Distractor
-    { src: 'images/captcha7.jpg', isCorrect: true },   // Your photo
-    { src: 'images/captcha8.jpg', isCorrect: true },  // Distractor
-    { src: 'images/captcha9.jpg', isCorrect: true }    // Your photo
+    { src: 'images/captcha1.jpeg', isCorrect: true },   // Your photo
+    { src: 'images/captcha2.jpeg', isCorrect: true },  // Distractor (flower/scenery)
+    { src: 'images/captcha3.jpeg', isCorrect: true },   // Your photo
+    { src: 'images/captcha4.jpeg', isCorrect: true },  // Distractor
+    { src: 'images/captcha5.jpeg', isCorrect: true },   // Your photo
+    { src: 'images/captcha6.jpeg', isCorrect: true },  // Distractor
+    { src: 'images/captcha7.jpeg', isCorrect: true },   // Your photo
+    { src: 'images/captcha8.jpeg', isCorrect: true },  // Distractor
+    { src: 'images/captcha9.jpeg', isCorrect: true }    // Your photo
 ];
 
 // ===================================
